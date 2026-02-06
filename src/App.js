@@ -1,10 +1,10 @@
-import "primereact/resources/themes/lara-light-teal/theme.css"; 
-import "primereact/resources/primport React, { useState, useEffect } from 'react';
-import { Button } from 'primereact/button';
-imereact.min.css";  
+import "primereact/resources/themes/lara-light-teal/theme.css";
+import "primereact/resources/primereact.min.css";
 import "primeicons/primeicons.css";
 import "/node_modules/primeflex/primeflex.css";
 
+import React, { useState, useEffect } from 'react';
+import { Button } from 'primereact/button';
 import Storefront from './views/Storefront';
 import ProductForm from './components/ProductForm';
 
